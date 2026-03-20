@@ -7,6 +7,6 @@
     printf("Tiago Oliveira Ayala \n");
     printf("Pablo Renato dos Santos Sobral de Carvalho\n");
 
-    printf("Nosso grupo de garotos de programa: Thyago, Lucas e Pablo");
+    printf("Nosso grupo de garotos de programa: Tiago, Lucas e Pablo");
     return 0;
  }
